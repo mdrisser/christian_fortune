@@ -1,2 +1,2 @@
-# christian_quotes
-Christian quotes mod for the fortune application
+# Christian Fortune
+A collection of Christian quotes for the fortune application.
