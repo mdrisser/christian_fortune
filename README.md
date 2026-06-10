@@ -10,3 +10,5 @@ A collection of Christian quotes for the fortune application.
 # More Info
 For more information, run `man fortune`
 
+## Create .dat Files
+`strfile -c % <quote-file> <quote-file>.dat`
